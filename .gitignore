@@ -15,5 +15,4 @@ datanucleus.log
 /bin/
 /bin/
 /bin/
-*.log
 event-sourcing/Journal.json
